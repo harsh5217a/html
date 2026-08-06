@@ -4,13 +4,23 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>image tag</title>
 </head>
 
 <body>
     <h1>image tag</h1>
     <img src="https://static.vecteezy.com/system/resources/thumbnails/049/855/347/small/nature-background-high-resolution-wallpaper-for-a-serene-and-stunning-view-photo.jpg"
-        alt="a flower">
+        alt="a flower" height="200">
+
+    <br>
+    <hr>
+    <!-- hr tag is used to create a horizontal line  -->
+    <big> this is a big tag</big><br>
+    <small> this is a small tag</small>
+    <hr>
+    <h1> subscript and superscript</h1>
+    <p><big> H<sub>2</sub>O</big></p>
+    <P>3<sup>3</sup>=27</P>
 </body>
 
 </html>
