@@ -21,6 +21,29 @@
     <h1> subscript and superscript</h1>
     <p><big> H<sub>2</sub>O</big></p>
     <P>3<sup>3</sup>=27</P>
+    <pre>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quod vitae non temporibus iure, quae totam veritatis quisquam 
+        quibusdam illo recusandae cum, inventore hic porro suscipit neque eius incidunt, ipsum odio a voluptas laborum doloremque 
+        tenetur? Dolor culpa, cupiditate delectus repellat excepturi eaque, praesentium nemo inventore obcaecati accusamus rem 
+        repellendus cumque possimus, qui accusantium impedit quo blanditiis! Perspiciatis odio voluptates reprehenderit natus, minus,
+     facilis pariatur doloremque deserunt sunt commodi voluptas atque consectetur ab obcaecati. Eaque laborum velit quibusdam 
+         possimus iste eos veritatis enim nisi corrupti iusto itaque rerum, iure aperiam quam error eligendi nesciunt! Aliquam tempora 
+         nisi minima ducimus vel quae dolor nemo distinctio cupiditate adipisci, ad corporis. Corporis asperiores ipsa, animi fugit,
+          quos necessitatibus tempora officia vitae, ullam obcaecati iusto dolor nisi magni numquam eius voluptatum. Eos veniam magnam
+           explicabo vitae voluptatum animi necessitatibus perspiciatis vero autem eos fuga reiciendis recusandae repudiandae 
+             sapiente consequatur doloribus a hic iusto aspernatur. Doloribus officia harum blanditiis enim sint recusandae ducimus
+             .</pre>
+    <pre>Impedit quod at vel voluptatibus corrupti nulla dolore sint nihil eveniet incidunt maiores, deleniti magnam blanditiis amet 
+        enim accusantium iure numquam voluptate dolorem illo ducimus alias fuga atque voluptas. Eligendi porro atque repellendus 
+        repellat nemo corporis veniam facilis unde fuga veritatis. Vero voluptatem, voluptatibus ea dolor iusto illo eos facilis id 
+        maxime et perferendis similique quidem consequatur consequuntur iure quas ex doloribus inventore impedit laudantium commodi 
+        aperiam quis maiores recusandae. Voluptatem quisquam atque accusamus placeat iusto corrupti sed? Deleniti, nulla hic. 
+        Aspernatur, temporibus! Soluta officiis ea, neque blanditiis quam debitis nesciunt amet, placeat, esse eligendi cupiditate 
+        nisi maiores sequi ex facilis doloremque voluptatibus. Quos, saepe provident repellat eaque qui tenetur, laborum reprehenderit 
+       Tenetur neque nulla minima eveniet atque, aut, voluptas quis exercitationem perspiciatis maiores officia omnis. Facere est
+            tenetur sed, excepturi dolores quis delectus et autem dicta illo neque optio nemo ipsa nesciunt! Tempore praesentium sint 
+            eius recusandae maiores cum quo incidunt delectus consectetur accusamus.
+
+    </pre>
 </body>
 
 </html>
